@@ -1,0 +1,23 @@
+{
+  "sessionSecret": "513e1f321e4a32a652ace50c52bc0433e94bdb51b7eccbf8afb12a8ce90be0d3",
+  "users": [
+    {
+      "id": "admin-yahya-2026",
+      "name": "Yahya, S.Pd.I",
+      "email": "ppgyahya2025@gmail.com",
+      "role": "admin",
+      "nip": "",
+      "school": "SMAN 2 Kuala Mandor B",
+      "jenjang": "Semua Jenjang",
+      "active": true,
+      "mustChangePassword": false,
+      "createdAt": "2026-11-19T10:59:40.736Z",
+      "passwordHash": "ab926fe74d9e9dc5f96073c3739356b22b0b561144e921b65f6481b282e76ae3714f808ec1501ec086e6a76af2f9900eda5ab4d9fe6816e59c9063762dfb5cce",
+      "passwordSalt": "f48546e2f6a0f769608c19803626ea68",
+      "avatarUrl": ""
+    }
+  ],
+  "modules": [],
+  "planners": {},
+  "classrooms": []
+}
