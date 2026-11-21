@@ -1,6 +1,6 @@
 {
-  "name": "Pustaka PAI Merdeka 2026",
-  "description": "Platform perangkat ajar Guru Pendidikan Agama Islam jenjang SD/MI hingga SMA/MA Kurikulum Merdeka 2026 dengan CP, ATP, integrasi Al-Qur'an & Hadis, Modul Ajar Deep Learning 8 Lampiran, serta manajemen akun guru.",
+  "name": "Sarang Ilmu Modul Ajar",
+  "description": "Platform penyusunan Modul Ajar dan LKPD Pembelajaran Mendalam Kurikulum Merdeka untuk mata pelajaran umum SD/MI–SMA/MA, siap cetak, PDF, dan Word.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
